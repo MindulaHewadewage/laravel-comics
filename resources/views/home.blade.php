@@ -9,8 +9,8 @@
 </head>
 <body>
     @include('includes.header')
-    @include('includes.footertop')
-    @include('includes.footerbottom')
+    @include('includes.footer')
+
 
 </body>
 </html>

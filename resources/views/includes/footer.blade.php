@@ -1,8 +1,6 @@
 <footer>
-
-
     <section class="footer-top">
-        <div class="container">
+        <div class="container top-nav">
             <nav>
                 <div class="comics-shop">
                     <h3>DC COMICS</h3>
@@ -50,12 +48,29 @@
                         <li><a href="#">DC Power Visa</a></li>
                     </ul>
                 </div>
-
-
             </nav>
+
             <figure>
                 <a href=" #"><img src="../assets/img/dc-logo-bg.png" alt="logo dc"></a>
             </figure>
+        </div>
+    </section>
+
+    <section class="footer-bottom">
+        <div class="container bottom-nav">
+            <div class="sign-up">
+                <a href="#">SIGN UP NOW</a>
+            </div>
+            <div class="social">
+                <h3>FOLLOW US</h3>
+                <ul>
+                    <li><a href="#"><img src="../assets/img/footer-facebook.png" alt="facebook"></a></li>
+                    <li><a href="#"><img src="../assets/img/footer-periscope.png" alt="periscope"></a></li>
+                    <li><a href="#"><img src="../assets/img/footer-twitter.png" alt="twitter"></a></li>
+                    <li><a href="#"><img src="../assets/img/footer-pinterest.png" alt="pinterest"></a></li>
+                    <li><a href="#"><img src="../assets/img/footer-youtube.png" alt="youtube"></a></li>
+                </ul>
+            </div>
         </div>
     </section>
 
