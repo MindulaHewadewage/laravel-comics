@@ -238,7 +238,7 @@ Route::get('/comics', function () {
             ],
         ],
     ];
-    return view('comics');
+    return view('comics', compact('comics'));
 })->name('comics');
 
 // rotta per la movies
