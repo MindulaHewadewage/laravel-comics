@@ -1,0 +1,38 @@
+.footer-top {
+
+    background-image: url(../assets/img/footer-bg.jpg);
+}
+
+nav {
+    display: flex;
+    padding-top: 40px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+nav h3 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+nav a {
+    color: grey;
+}
+
+nav li {
+    padding: 3px 0;
+}
+
+ul {
+    margin-right: 30px;
+}
+
+figure a img {
+    width: 300px;
+}
