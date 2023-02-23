@@ -59,11 +59,11 @@ Route::get('/fans', function () {
 })->name('fans');
 
 // rotta per la news
-Route::get('/', function () {
+Route::get('/news', function () {
     return view('news');
 })->name('news');
 
 // rotta per la shop
-Route::get('/', function () {
+Route::get('/shop', function () {
     return view('shop');
 })->name('shop');
