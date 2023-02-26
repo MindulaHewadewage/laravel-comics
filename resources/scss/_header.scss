@@ -4,6 +4,10 @@ header{
     justify-content: space-between;
     min-height: 100px;
 
+    .logo{
+        width: 70px;
+    }
+
     .menu{
         ul{
             display: flex;
