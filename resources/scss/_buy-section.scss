@@ -1,0 +1,18 @@
+.buy-list{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px 0;
+
+
+
+    color: white;
+
+    li{
+        display: flex;
+        align-items: center;
+    }
+}
+.buy-section-bg{
+    background-color: $primary;
+}
+

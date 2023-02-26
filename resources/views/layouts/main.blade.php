@@ -13,6 +13,7 @@
     <main>
         @yield('content')
     </main>
+    @include('includes.buy-section')
     @include('includes.footer')
 
     @yield('scripts')
