@@ -4,9 +4,7 @@
 
 
 @section('content')
-<div class="comics-jumbo">
-    <img src="{{Vite::asset('resources/img/jumbotron.jpg')}}" alt="">
-</div>
+<div class="comics-jumbo"></div>
 <div class="comics-card-section">
 <div class="comics-card-deck container">
     @foreach($comics as $comic)

@@ -1,10 +1,7 @@
 .comics-jumbo{
-    img{
-        height: 350px;
-        width: 100%;
-        object-fit:cover;
-        object-position: top;
-    }
+background-image: url('../img/jumbotron.jpg');
+height: 350px;
+background-position: top;
 }
 
 .comics-card-section{
