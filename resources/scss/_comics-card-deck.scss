@@ -1,6 +1,7 @@
 .comics-card-section{
     background-color: $darkgrey;
     color: white;
+    padding: 40px 0;
 
     .comics-card-deck{
 
@@ -14,6 +15,11 @@
                 width: 150px;
                 height: 150px;
                 object-fit: cover;
+            }
+            p{
+                font-size: 12px;
+                text-transform: uppercase;
+                padding:10px 0;
             }
         }
     
